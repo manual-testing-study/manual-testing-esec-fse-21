@@ -1,6 +1,7 @@
 # Analysis
 
-The analysis has been done in the [Jupyter Notebook](https://jupyter.org/) [`Analysis.ipynb`](https://github.com/manual-testing-study/manual-testing-esec-fse-21/blob/main/analysis/Analysis.ipynb).
+All analyses have been done in the [Jupyter Notebook](https://jupyter.org/) [`Analysis.ipynb`](https://github.com/manual-testing-study/manual-testing-esec-fse-21/blob/main/analysis/Analysis.ipynb).
+To reproduce all plots that we report in the paper, re-run the notebook to generate the graphs based on the [survey results](https://github.com/manual-testing-study/manual-testing-esec-fse-21/blob/main/survey/survey-answers_anonymized.xlsx).
 
 ## Prerequisites
 
