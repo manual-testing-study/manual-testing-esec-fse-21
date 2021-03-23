@@ -1,4 +1,4 @@
-# Supplemental Repository for the Paper: "How Can Manual Testing Processes Be Optimized?"
+# Supplemental Repository for the Paper: *How Can Manual Testing Processes Be Optimized?*
 
 This repository contains supplemental material for our paper submission to the [industry track of ESEC/FSE 2021](https://2021.esec-fse.org/track/fse-2021-industry).
 
